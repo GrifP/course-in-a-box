@@ -1,1 +1,13 @@
+## 1. Introduction
 
+Welcome to this new course on Internet privacy! Make yourself at home, we’re going to give you a 101 course on a topic you’ve surely seen on the Internet: cookies.
+
+You’ve probably seen banners on websites that ask you to accept cookies. Some even force you to accept cookies in order to continuing browsing on the site. But, what on earth are cookies and why are they so important? Beside being a delicious baking goodie, which sadly is not the case here, a cookie is basically a file stored on your browser, which Internet sites can create in order to write them and read them any time you enter the website. Let’s see an example of how it works!
+
+Imagine you want to buy a collar for your lovely dog, and you look for a great sale on the Internet. If you go to your favourite online shopping platform, you probably log in, or maybe you’ll be already logged in from a previous time. And when you’re exploring among those quite beautiful collars for a low price, looking for the fanciest accessory for your furry friend, the website won’t ask you your account information again and again every time the page refreshes to show you something new. It will just remember. But, how? That’s where cookies take part.
+
+When you enter the site for the first time (the actual first time ever), the web page creates a file with your information: a cookie. Picture there are various languages available, so you choose your native language. The website takes that information and stores it in this file called cookie to know your preferences from now on, and so it can refrain from asking it again when you come back. It will just have to read it. Exactly the same happens with your account. When you sign in, your information is stored too, so no matter how many searches you make or how many products you click, when the sites needs to refresh to show you something new, it can keep you logged in because it can read the necessary information on the cookie. Websites uses cookies to write down the necessary stuff in order to remember.
+
+But that’s not all that can be written down. After exploring the page browsing some collars, information like your prefered collars, their prices, and what you actually bought may be stored in the cookie. Because of this, more information than you could actually want to is stored into the cookie, information that later on can be used to show you advertisements based on your searches.
+
+In short, cookies offer us both good and bad things. They usually expire and are automatically deleted after some time, but here we will teach you more about them and how to control them.

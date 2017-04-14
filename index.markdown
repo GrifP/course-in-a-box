@@ -16,7 +16,7 @@ There is no need to register or pay. All of these resources are openly licensed 
 As we mentioned, these materials are freely available for you to peruse through on your own. However, we designed the course to be taken in a group, and P2PU has put together some resources and tools that will help you bring a group together. If you're interested in working through this course locally, head to learningcircles.p2pu.org, create and account, and select this course for your learning circle. The facilitator handbook and community will help you along your way.
 
 			
-## Who the heck are you?
+## Who are we?
 
 Add something about the students in Madrid
 

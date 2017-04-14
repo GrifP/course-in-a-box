@@ -1,5 +1,6 @@
 ## 2. Evolution of social networks
 
+
 #### A. Terms and conditions
 Often, in social media (and many other services and applications we use) we accept the terms and conditions without as much as a look. However, they can have a great effect on the privacy that we think we have, and the contents we upload or create can be visible even when it is not our intention.
 
@@ -9,7 +10,8 @@ Have you ever disabled the possibility of being found with your phone number on 
 
 Later, we will see how to change your privacy settings in order to better control what information about you might be displayed publicly.
 
-Follow this link to see the evolution of Facebook’s default privacy settings through time and what will be displayed to whom on our profiles if we don’t change them: http://mattmckeon.com/facebook-privacy
+Follow this link to see the evolution of Facebook’s default privacy settings through time and what will be displayed to whom on our profiles if we don’t change them: [http://mattmckeon.com/facebook-privacy]
+
 
 #### B. Information and responsibility
 In the following video we can see how the amount of people using social media has grown over the last few years:

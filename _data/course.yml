@@ -1,6 +1,6 @@
-title: Course in a Box
-description: Build Your Very Own Open Course
-modules: [start, community, learning, content, feedback, references]
+title: Online privacy for the rest of us
+description: An overview of what we can all do to protect our identity online.
+modules: [social networks, privacy and security, information stored on the network, cookies]
 signups:
  - name: Geert Hofman
    image: https://media.licdn.com/media/p/3/000/1b0/2c9/2daad0c.jpg

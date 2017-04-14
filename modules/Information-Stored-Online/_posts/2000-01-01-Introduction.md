@@ -8,6 +8,6 @@ Many companies rely on this data to create profiles of users; profiles that can 
 
 But hey, let’s not freak out! Something being powerful doesn’t mean it's going to be used for evil, but surely digital footprints have some issues with privacy. There are some regulations about it, and there’s definitely a bunch of things you can do to improve your privacy on the Internet. We’re not trying to scare you, we just want you to be aware of it and help you be safe. There are many reasons to care about your digital footprint, as you can see in this video:
 
-[![Digital_Footprint](https://img.youtube.com/vi/Ro_LlRg8rGg&index=11&list=WL/0.jpg)](https://www.youtube.com/watch?v=Ro_LlRg8rGg&index=11&list=WL)
+[![Digital_Footprint](https://img.youtube.com/vi/Ro_LlRg8rGg/0.jpg)](https://www.youtube.com/watch?v=Ro_LlRg8rGg)
 
 OK. So, do you feel like going on?

@@ -1,4 +1,4 @@
-III. Information Stored on the Network
+III. Information Stored Online
 1. Introduction
 Welcome to this new course on Internet privacy! This time we will try to give you an overview about how much and what kind of information is stored about you on the network. This information is known as digital footprint.
 

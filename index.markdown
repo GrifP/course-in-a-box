@@ -3,31 +3,21 @@ layout: index
 published: true
 ---
 
-## Create a Learning Community that Lasts
+## Privacy for the rest of us
 
-Online courses often feel large, intimidating and anonymous. It's hard to feel invested
-in multiple choice quizzes, textbook chapters and hum-drum Q &amp; A forums where you
-don't know anyone.
+We often hear that we need to be concerned with privacy and security online. However, it's a very overwhelming topic to learn about! That's why students in Madrid, P2PU, and The Kansas City Public Library teamed up to develop these resources for folks who aren't computer scientists, but still want to be safe online!
 
-In a stellar learning experience, you'd know who was in the room and feel super-comfy.
-You'd make projects together and find help when you get stuck. You'd want to send people
-thank-you cards and chicken soup.
+This course has four modules, each of which take about 90 minutes to work through and are best completed as a group. The modules are: social media, privacy and security, information stored online, and cookies. 
 
-We know designing a creative, participatory community can be tricky. We're here to help
-you **craft assignments** that rule, **build an audience** and support you along the way. You'll
-even learn a few technical skills in the process. Don't worry, 1s and 0s wash off
-pretty easily.
+There is no need to register or pay. All of these resources are openly licensed and here to be used. 
 		
-## OK, but who are you guys?
+## Learning circles
 
-We're [Peer 2 Peer University](http://p2pu.org)--we build learning communities
-on the web. In the last 5 years, we put together courses like 
-[Play With Your Music](http://www.playwithyourmusic.org/),
-[Learning Creative Learning](http://learn.media.mit.edu/lcl/), the
-[Deeper Learning MOOC](http://dlmooc.deeper-learning.org/), and
-[A Gentle Intro to Python](http://mechanicalmooc.org/). 
-Also, we're a non-profit and a distributed team (so we use the tools we recommend).
+As we mentioned, these materials are freely available for you to peruse through on your own. However, we designed the course to be taken in a group, and P2PU has put together some resources and tools that will help you bring a group together. If you're interested in working through this course locally, head to learningcircles.p2pu.org, create and account, and select this course for your learning circle. The facilitator handbook and community will help you along your way.
 
 			
-## I'm in--how do I get started?
-Head over [here]({{site.baseurl}}/modules/start/about-this-course/) to create your own course!
+## Who the heck are you?
+
+Add something about the students in Madrid
+
+P2PU is a grassroots open education organization. They support learning circles around the world, and developed a handy online course building tool called Course in a Box that was used to build this site. If you'd like to develop your own course, head over to howto.p2pu.org. If you have other questions, reach out at thepeople@p2pu.org.

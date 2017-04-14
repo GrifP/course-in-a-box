@@ -30,4 +30,4 @@ For example, in the U.S.A., invasion of privacy can be used as cause of action (
 
 If we want to delete our digital footprint, there are many ways to reduce it, but it’s impossible to completely delete it. Some places in the world have laws that implement “the right to be forgotten”. The right to be forgotten reflects the claim of an individual to have certain data deleted so that third persons can no longer trace them. This is a relatively new idea in the US, and it’s not yet implemented. In the European Union, Google put at users’ disposal a form in which users can ask Google to delete any information they have about them, in order to keep the right to be forgotten. You can see the form in the next link:
 
-[https://support.google.com/legal/contact/lr_eudpa?product=websearch]
+https://support.google.com/legal/contact/lr_eudpa?product=websearch

@@ -15,7 +15,7 @@ Other option for improving your privacy is using alternative email accounts, in 
 
 Last but not least, install an antivirus. This will keep you protected from malware that tries to steal your data. And one final note: encryption is important. If your data is encrypted, it will be hard to read if stolen. This is a more complicated topic we are not going to cover now, but just one tip: when your are browsing on the Internet use HTTPS instead of HTTP when possible. You will see it in your browser:
 
-[https://upload.wikimedia.org/wikipedia/commons/e/e5/HTTPS_icon.png]
+https://upload.wikimedia.org/wikipedia/commons/e/e5/HTTPS_icon.png
 
 #### B. Regulation: right to be forgotten
 

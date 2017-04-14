@@ -1,4 +1,4 @@
-##2. Knowing your digital footprint
+## 2. Knowing your digital footprint
 
 #### A. What is your digital footprint made of?
 Your digital footprint is all the stuff you leave behind as you use the Internet, things such as websites, online shopping logs, forum registrations, e-mails and attachments, uploaded videos or digital images and any other form of transmission of information, all of which leaves traces of personal information about yourself available to others online. Some of this data are cookies that are stored in our browser and stores information about our accounts and maybe our navigation habits. Some of them, like posts, comments and likes or retweets, come from our use of social media, which in many cases may be less private than we thought and we’d want to. Some websites may even track which devices log in using the same account, although we should consider that sometimes this makes our access more secure and not less.

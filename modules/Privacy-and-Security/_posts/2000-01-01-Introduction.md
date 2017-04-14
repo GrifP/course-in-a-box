@@ -1,4 +1,5 @@
-##1. Introduction
+## 1. Introduction
+
 In recent years, a lot of news have come out about the efforts of government agencies to collect information about people’s telephone conversations, e-mails and other online information. While governments claim that it is a way of keeping their citizens safe, many users are worried about being spied upon.
 
 Internet has many good things, but it also facilitates some crimes. The communication opportunities make it easier to get some dangerous objects, like weapons, and it makes it easier for criminals to gather and stay connected. These are some of the reasons that government agencies use when surveillance programs are uncovered.

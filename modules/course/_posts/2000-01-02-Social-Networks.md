@@ -28,12 +28,12 @@ Have you ever disabled the possibility of being found with your phone number on 
 
 Later, we will see how to change your privacy settings in order to better control what information about you might be displayed publicly.
 
-In the following graphic we can see the evolution of Facebook’s default privacy settings through time and what will be displayed to whom on our profiles if we don’t change them: http://mattmckeon.com/facebook-privacy
+Follow this link to see the evolution of Facebook’s default privacy settings through time and what will be displayed to whom on our profiles if we don’t change them: http://mattmckeon.com/facebook-privacy
 
 #### B. Information and responsibility
 In the following video we can see how the amount of people using social media has grown over the last few years:
 
-https://www.youtube.com/watch?v=pehq2WC6O10
+[![Social_Media_Stats](https://img.youtube.com/vi/pehq2WC6O10/0.jpg)](https://www.youtube.com/watch?v=pehq2WC6O10)
 
 The video gives us an idea of the enormous amount of people who use social media services, and we should take this into account when using them.
 
@@ -102,7 +102,7 @@ If you want to erase every trace you left on a social media, one option is to de
 However, before deleting your account and thus losing control over the information you could manage from it, we recommend that you follow these steps:
 
 * Review your publications. If you can remember any comment on someone else’s profile that you might regret, delete it.
-Remove the photos that you don’t want to remain on the site, since sometimes they are saved for the rest of the labeled people in the photo.
+* Remove the photos that you don’t want to remain on the site, since sometimes they are saved for the rest of the labeled people in the photo.
 * Delete your information on applications on which you log in from your Facebook, since you will lose access to them.
 * As you can see, following this advice is not always easy, since we might not remember many of our publications or to which applications we have given access to our information. That is why we insist on that the best thing to do is not to publish potentially harmful stuff in the first place. Furthermore, when you allow an application access to your information, be sure to know what kind of application you’re dealing with and, if you think it might store some information that you might want to delete, don’t allow it, or at least remember it in order to be able to delete it later on.
 
@@ -168,5 +168,6 @@ We summarize in the following tips the most important things to remember to make
 
 Following this advice we can prevent problems like the one that Tim had in the following video:
 
-https://www.youtube.com/watch?v=H0I7jQb37bo
+[![Cyber Privacy](https://img.youtube.com/vi/H0I7jQb37bo/0.jpg)](https://www.youtube.com/watch?v=H0I7jQb37bo)
+
 

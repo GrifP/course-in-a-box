@@ -25,7 +25,7 @@ This is basically how Tor works: the information is wrapped in several layers of
 #### C. Backdoors
 As new measures have been put into place, it is claimed that we should not worry, since it is necessary to sacrifice a small amount of freedom or privacy in order to greatly increase our security, and that if we are not engaging in any criminal activity this should not affect us at all. However, others claim that this surveillance will affect us negatively if we are anything but harmless, uninteresting and conformist members of society. This vision is expressed in the following video:
 
-https://www.youtube.com/watch?v=pcSlowAhvUk
+[![Why_Privacy_Matters](https://img.youtube.com/vi/pcSlowAhvUk/0.jpg)](https://www.youtube.com/watch?v=pcSlowAhvUk)
 
 One of the methods used to access our private information is through backdoors. A backdoor is a method of bypassing authentication mechanisms in an application. They can be used to access contents relevant to security issues, but it also opens up the possibility of accessing private data of a personal nature belonging to innocent citizens.
 
@@ -38,7 +38,7 @@ Increasingly, laws are being made to ensure the privacy of internet users, but i
 
 Here is a video of how someone pictures internet privacy in the future: 
 
-https://www.youtube.com/watch?v=uZ8d2P53N1w
+[![Future of Privacy](https://img.youtube.com/vi/uZ8d2P53N1w/0.jpg)](https://www.youtube.com/watch?v=uZ8d2P53N1w)
 
 It is interesting to consider the point of view of the speaker: the situation towards which we seem to be heading resembles in some way that of a small town, in which everyone knows what everyone else is doing without a lot of fuss about it. Maybe we should ask ourselves whether, since our “small town” has evolved so much, we should also evolve in our privacy policy.
 
